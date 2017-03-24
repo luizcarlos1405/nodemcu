@@ -1,3 +1,7 @@
+# Folders
+min/
+luaminify
+
 # Compiled Lua sources
 luac.out
 

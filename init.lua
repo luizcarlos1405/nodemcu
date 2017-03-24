@@ -1,4 +1,4 @@
-dofile("script1.lua")
+dofile("wifi.lua")
 dofile("telnet.lua")
 dofile("utils.lua")
 --dofile("heartbeat.lua")
